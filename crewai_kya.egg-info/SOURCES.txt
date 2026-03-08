@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+crewai_kya/__init__.py
+crewai_kya/card.py
+crewai_kya/identity.py
+crewai_kya/middleware.py
+crewai_kya/trust_gate.py
+crewai_kya.egg-info/PKG-INFO
+crewai_kya.egg-info/SOURCES.txt
+crewai_kya.egg-info/dependency_links.txt
+crewai_kya.egg-info/requires.txt
+crewai_kya.egg-info/top_level.txt
+tests/test_integration.py
